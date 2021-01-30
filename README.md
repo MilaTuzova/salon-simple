@@ -1,0 +1,2 @@
+# salon-simple
+beauty salon
